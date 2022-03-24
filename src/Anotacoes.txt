@@ -1,0 +1,14 @@
+npx create-react-app github-api
+npm i axios {
+    O que é o Axios?
+    Axios é um cliente HTTP baseado-em-promessas para o node.js e 
+    para o navegador. É isomórfico (= pode rodar no navegador e no 
+    node.js com a mesma base de código). No lado do servidor usa o 
+    código nativo do node.js - o modulo http, enquanto no lado do
+    cliente (navegador) usa XMLHttpRequests.
+    }
+
+-- Cria o api.js e insancia com o axios
+
+npm install --save styled-components
+npm install --save react-tabs
